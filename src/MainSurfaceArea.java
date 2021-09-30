@@ -7,7 +7,6 @@
  * Professor Name: Mel Sanschagrin
  */
 
-
 import java.util.Scanner;
 
 public class MainSurfaceArea {

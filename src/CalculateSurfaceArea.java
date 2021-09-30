@@ -46,5 +46,4 @@ public class CalculateSurfaceArea {
     // Return rounded value of area
     return Math.ceil(area);
   }
-
 }
